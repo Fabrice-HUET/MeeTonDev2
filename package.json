@@ -2,6 +2,9 @@
   "homepage": "http://{maximekirch.github.io/osLink",
   "name": "oslink",
   "version": "0.1.0",
+  "engines": {
+    "node": "16.x"
+  },
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
